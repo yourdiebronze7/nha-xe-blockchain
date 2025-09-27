@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-    res.send('Chào mừng đến với Nha Xe Blockchain!');
+    res.send('Chào mừng đến với Nhà Xe Blockchain!');
 });
 
 app.listen(PORT, () => {
