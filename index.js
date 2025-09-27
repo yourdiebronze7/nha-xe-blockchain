@@ -3,9 +3,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-    res.send('Chào mừng đến với Nhà Xe Blockchain!');
+    res.send('Welcome to the Blockchain Shuttle!');
 });
 
 app.listen(PORT, () => {
-    console.log(`Máy chủ đang chạy trên cổng ${PORT}`);
+    console.log(`Server is running on port ${PORT}`);
 });
