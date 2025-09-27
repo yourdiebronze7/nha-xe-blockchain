@@ -1,7 +1,7 @@
 {
   "name": "nha-xe-blockchain",
   "version": "1.0.0",
-  "description": "Nền tảng quản lý xe hơi dựa trên blockchain",
+  "description": "Nền tảng quản lý và theo dõi xe hơi dựa trên blockchain",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
