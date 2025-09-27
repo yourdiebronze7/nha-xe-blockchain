@@ -9,5 +9,6 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Author Name"
 }
